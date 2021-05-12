@@ -17,6 +17,7 @@ header {
 }
 
 img {
+  width: 300px;
   margin: 10px;
   border: 4px solid #00FFCC
 }
